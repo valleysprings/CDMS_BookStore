@@ -1,0 +1,9 @@
+__pycache__
+.idea
+app.log
+own.py
+testTps.log
+build
+.pytest_cache
+bookstore.egg-info
+dist
